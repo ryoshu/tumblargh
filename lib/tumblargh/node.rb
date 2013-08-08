@@ -9,6 +9,6 @@ module Tumblargh
     autoload :Literal,      'tumblargh/node/literal'
     autoload :Root,         'tumblargh/node/root'
     autoload :Tag,          'tumblargh/node/tag'
-  
+    autoload :HighRes,      'tumblargh/node/high_res'
   end
 end
